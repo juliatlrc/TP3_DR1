@@ -1,0 +1,1 @@
+Este é o conteúdo de subdir2/arquivo4.txt
